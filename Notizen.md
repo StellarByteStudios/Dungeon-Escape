@@ -4,33 +4,33 @@ Ein Dungeon Escape-Room Spiel in welchem man durch eingaben ein Männchen Bewege
 
 # - Was brauch ich? - #
 ## Strucktur:
-    - Ein Grind bestehend aus Feldern (Wichtig: Variabel und unbeschränkt)
-        + Entweder als 2-dim-LinkedList oder mit Koordinaten (DynArray)
-    - Felder, welche einen Inhalt und vier Nachbarn haben
-    - Die Entitäten welche auf den Feldern sein können
-        + Wand          (#): Undurchdringlich für alle beweglichen Entitäten
-        + Spieler       (S): Kann in 4 Richtungen Bewegt werden
-        + Ausgang       (A): Muss vom Spieler erreicht werden. Beendet das Spiel
-        + Leeres Feld   ( ): Leeres Feld auf dem sich Spieler und Monster bewegen können
-        + Monster (< > v ^): Geht immer in eine Richtung (Dreht bei Wänden). Kann Spieler fressen
+- Ein Grind bestehend aus Feldern (Wichtig: Variabel und unbeschränkt)
+    + Entweder als 2-dim-LinkedList oder mit Koordinaten (DynArray)
+- Felder, welche einen Inhalt und vier Nachbarn haben
+- Die Entitäten welche auf den Feldern sein können
+    + Wand          (#): Undurchdringlich für alle beweglichen Entitäten
+    + Spieler       (S): Kann in 4 Richtungen Bewegt werden
+    + Ausgang       (A): Muss vom Spieler erreicht werden. Beendet das Spiel
+    + Leeres Feld   ( ): Leeres Feld auf dem sich Spieler und Monster bewegen können
+    + Monster (< > v ^): Geht immer in eine Richtung (Dreht bei Wänden). Kann Spieler fressen
     
 
 
 # - Wie läuft das Programm ab? - #
 ## Start:
-    - Einlesen des Levels
-    - Visualisieren des Levels im Speicher
-    - Auf ersten Befehl warten
+- Einlesen des Levels
+- Visualisieren des Levels im Speicher
+- Auf ersten Befehl warten
 
 ## Spielloop:
-    - Eingabe des Befehls für den Spieler
-    - Spieler und dann Monster werden auf dem Spielfeld bewegt
-        + Kollision:
-            * Wand: Spieler kommt nicht weiter/Monster dreht um 180°
-            * Ausgang: Spieler gewinnt
-            * Monster/Spieler: Spieler verliert
-    - Ausgabe des Befehls
-    - Ausgabe des Levels
+- Eingabe des Befehls für den Spieler
+- Spieler und dann Monster werden auf dem Spielfeld bewegt
+    + Kollision:
+        * Wand: Spieler kommt nicht weiter/Monster dreht um 180°
+        * Ausgang: Spieler gewinnt
+        * Monster/Spieler: Spieler verliert
+- Ausgabe des Befehls
+- Ausgabe des Levels
 
 ## Ende:
 
