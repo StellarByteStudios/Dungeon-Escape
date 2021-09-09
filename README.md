@@ -1,5 +1,5 @@
 # - Dungeon-Escape - #
-#### Entkomme der Konsole, oder werde von den Monstern gefressen
+**Entkomme der Konsole, oder werde von den Monstern gefressen**
 
 ---
 
@@ -28,11 +28,11 @@ Solltest du doch mal komplett verzweifeln gib einfach q ein um das Spiel zu been
 
 #### Ein Levelbeispiel (Level 2)
 
-> #################
-> \#               #
-> \#    S  ^ v  A  #
-> \#               #
-> #################
+> #################  
+> \#               #  
+> \#    S  ^ v  A  #  
+> \#               #  
+> #################  
 
 ## Neuste Updates
 Keine...
