@@ -11,7 +11,7 @@ int main(int argc, char *argv[]){
     char option;
 
     // Variablen mit Standartwerten füllen
-    leveladresse = "level/1.txt";
+    leveladresse = "level/6.txt";
     output = stdout;
     input = stdin;
 
