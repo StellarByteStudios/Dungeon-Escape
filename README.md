@@ -28,10 +28,10 @@ Solltest du doch mal komplett verzweifeln gib einfach q ein um das Spiel zu been
 
 #### Ein Levelbeispiel (Level 2)
 
-> #################  
-> \#               #  
+> #################  15
+> \#&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; #  
 > \#    S  ^ v  A  #  
-> \#               #  
+> \#&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; #  
 > #################  
 
 ## Neuste Updates
