@@ -3,7 +3,7 @@ Ein Dungeon Escape-Room Spiel in welchem man durch eingaben ein Männchen Bewege
 
 
 # - Was brauch ich? - #
-## Strucktur:
+## Struktur:
 - Ein Grind bestehend aus Feldern (Wichtig: Variabel und unbeschränkt)
     + Entweder als 2-dim-LinkedList oder mit Koordinaten (DynArray)
 - Felder, welche einen Inhalt und vier Nachbarn haben
@@ -33,6 +33,9 @@ Ein Dungeon Escape-Room Spiel in welchem man durch eingaben ein Männchen Bewege
 - Ausgabe des Levels
 
 ## Ende:
+- Durchschreiten des Ausgangs: Gewonnen
+- Treffen auf ein Monster:     Gefressen
+- eingabe von q:               Beenden
 
 
 # - Wie funktioniert die Eingabe/der Aufruf? - #
