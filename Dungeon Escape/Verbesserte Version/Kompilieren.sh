@@ -4,7 +4,7 @@ HEADERS='dungeon.h my_structs.h debugging_Methoden.h grid_management.h entity_ma
 
 printf 'Es wird Kompiliert\n\n'
 
-gcc -Wall -Wmissing-prototypes -Werror -std=c99 $SOURCES $HEADERS -o dungeon -g
+gcc -Wall -Wmissing-prototypes -Werror -std=c99 $SOURCES $HEADERS -o DungeonEscape -g
 #printf 'Teil 1\n\n'
 #gcc -c dungeon.c my_structs.h
 #printf '\nTeil 2\n\n'
