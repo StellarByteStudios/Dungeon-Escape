@@ -29,9 +29,9 @@ Solltest du doch mal komplett verzweifeln gib einfach q ein um das Spiel zu been
 #### Ein Levelbeispiel (Level 2)
 
 > #################  
-> \#&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;#  
-> \#&nbsp; &nbsp; &nbsp; &nbsp;S&nbsp; &nbsp;^&nbsp;v&nbsp; &nbsp;A&nbsp; &nbsp;#  
-> \#&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;#  
+> \#&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; #  
+> \#&nbsp; &nbsp; &nbsp; &nbsp; S&nbsp; &nbsp; ^&nbsp; v&nbsp; &nbsp; A&nbsp; &nbsp; #  
+> \#&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; #  
 > #################  
 
 ## Neuste Updates
